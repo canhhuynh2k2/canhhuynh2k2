@@ -17,8 +17,3 @@
 
   </div>
   </p>
-
----
-**Contact me:**
-
-<a href="mailto:canhhuynh2002@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
