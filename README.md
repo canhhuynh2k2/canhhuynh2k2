@@ -24,3 +24,8 @@
 **Contact me:**
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/canhhuynh2k2) [<img alt="Github" src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/NCH.Official.Info)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/canhhuynh2k2/count.svg" />
+</p>
